@@ -1,0 +1,12 @@
+C:\Users\risha\Desktop\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+C:\Users\risha\Desktop\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+C:\Users\risha\Desktop\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+C:\Users\risha\Desktop\StringReverse\StringReverse\obj\Debug\StringReverse.csprojResolveAssemblyReference.cache
+C:\Users\risha\Desktop\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+C:\Users\risha\Desktop\StringReverse\StringReverse\obj\Debug\StringReverse.pdb
+D:\Recovered\New Tutorials\Practice\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+D:\Recovered\New Tutorials\Practice\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+D:\Recovered\New Tutorials\Practice\StringReverse\StringReverse\obj\Debug\StringReverse.pdb
+D:\Recovered\New Tutorials\Practice\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+D:\Recovered\New Tutorials\Practice\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+D:\Recovered\New Tutorials\Practice\StringReverse\StringReverse\obj\Debug\StringReverse.csprojResolveAssemblyReference.cache
